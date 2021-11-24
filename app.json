@@ -1,6 +1,6 @@
 {
-  "name": "discordpy-startup",
-  "description": "Herokuでdiscord.pyを始めるテンプレート",
-  "repository": "https://github.com/DiscordBotPortalJP/discordpy-startup",
+  "name": "Notificator",
+  "description": "Discordの通知をDiscordでするbot",
+  "repository": "https://github.com/sas08/notificator",
   "keywords": ["python", "discord", "bot"]
 }
